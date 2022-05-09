@@ -19,5 +19,5 @@ fi
 rm -rf build
 rm -rf gradle
 rm gradlew*
-
+#salir
 exit
